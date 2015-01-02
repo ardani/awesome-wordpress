@@ -1,6 +1,6 @@
 Introduction
 =================
-In Morpha, we use wordpress in client works heavily. Mainly because urgent client needs and short project timeline. We believe, delivering working and good products on time is better than perfect product but delivered late.
+In Morpha, beside Laravel and Zend, we use wordpress in client works heavily. Mainly because urgent client needs and short project timeline. We believe, delivering working and good products on time is better than perfect product but delivered late.
 
 ***This document is ever growing places where we log our snippets and tips when working on client projects.***
 
