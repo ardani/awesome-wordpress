@@ -5,8 +5,14 @@ In Morpha, we use wordpress in client works heavily. Mainly because urgent clien
 This document is ever growing places where we log our snippets and tips when working on client projects.
 
 # Table of Contents
+* [The Basic](#the-basic)
+* [Look and Feel](#look-and-feel)
+* [Performance Tips](#performance-tips)
+* [Must Install Plugins](#must-install-plugins)
+* [Recomended Plugins](#recomended-plugins)
+* [Snippet](#snippet)
 
-# The basic
+# The Basic
 If not using self-made theme, we use premium theme. To make working with this premium theme easier, we create custom child theme. There, we put all our snippets and all custom CSS related. We also put CSS overide there.
 
 # Look and Feel
