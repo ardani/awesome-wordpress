@@ -11,6 +11,7 @@ In Morpha, beside Laravel and Zend, we use wordpress in client works heavily. Ma
 * [Must Install Plugins](#must-install-plugins)
 * [Recomended Plugins](#recomended-plugins)
 * [Snippet](#snippet)
+* [Contact](#contact)
 
 # The Basic
 If not using self-made theme, we use premium theme. To make working with this premium theme easier, we create custom child theme. There, we put all our snippets and all custom CSS related. We also put CSS overide there.
@@ -94,6 +95,7 @@ Image is always the blocking factor in website loading. Before uploading image, 
 * [TablePress](https://wordpress.org/plugins/tablepress) : Used when we need to display table in wordpress site.
 * [TablePress Extension: Responsive Tables](http://tablepress.org/extensions/responsive-tables) : To make TablePress responsive
 * [WordPress Notification Bar](https://wordpress.org/plugins/wordpress-notification-bar) : Used when client want some alert notification to their visitor.
+* 
 
 # Snippet
 ## Creating Dashboard Widget
@@ -114,3 +116,6 @@ function morpha_admin_configuration_widget_function() {
 
 add_action( 'wp_dashboard_setup', 'morpha_admin_configuration_widget' );
 ```
+
+# Contact
+Interested to be our next awesome client? Contact us at [wearemorpha@gmail.com](mailto:wearemorpha@gmail.com)
